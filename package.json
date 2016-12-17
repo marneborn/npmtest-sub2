@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "npmtest-shared1": "git+ssh://git@github.com:marneborn/npmtest-shared1.git#1.0.1"
+    "npmtest-shared2": "git+ssh://git@github.com:marneborn/npmtest-shared2.git#1.0.1"
   }
 }
